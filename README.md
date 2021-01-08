@@ -8,4 +8,4 @@ HOW TO USE:
 2. Make sure PATH is correctly directed towards the chromedriver file of your chromium installation
 3. Change the link inside the driver.get() function to the landing page of whichever imleagues application you are using
 4. Change YOUR EMAIL and YOUR PASSWORD to your email and password respectively
-5. For the fitness, dropdown, and times varibles, change the varibles to be clicked to the deisred activity, session, and time respectively
+5. For the fitness, dropdown, and times variables, change the varibles to be clicked to the deisred activity, session, and time respectively
